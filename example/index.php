@@ -4,7 +4,6 @@ use imageInfo\ImageInformation;
 
 
 $img = new ImageInformation();
-
 $imageInfo = $img->getInformation("../assets/img/test.jpg");
 if ($camera) {
     echo '<img src="../assets/img/test.jpg" alt="" height="250" /> <br />';

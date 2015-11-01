@@ -11,7 +11,7 @@ namespace imageInfo;
 
 class ImageInformation
 {
-    public $unavailable = "Info Unavailable";
+    public $unavailable = "Info. Unavailable";
 
     function getInformation($imagePath)
     {
