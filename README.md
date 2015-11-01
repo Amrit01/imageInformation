@@ -45,7 +45,6 @@ Will display the following, depending on the data:
 -   Aperture: f/4.5
 -   ISO: 1400
 -   FocalLength: 300/10
--   FlashUsed: Unavailable
 -   Date Taken: 2014:07:30 06:59:22
 
 If the image has been re-sized and the information is no longer available then you should receive the following when echoing the same:
@@ -56,7 +55,6 @@ If the image has been re-sized and the information is no longer available then y
 -   Aperture: Info. Unavailable
 -   ISO: Info. Unavailable
 -   FocalLength: Info. Unavailable
--   FlashUsed: Info. Unavailable
 -   Date Taken: Info. Unavailable
 
 Some digital cameras do not capture all the information, Not captured information will display "Info. Unavailable".
