@@ -40,25 +40,25 @@ if ($camera) {
 
 Will display the following, depending on the data:
 
--Maker: NIKON CORPORATION
--Camera Used: NIKON D5200
--Exposure Time: 10/300
--Aperture: f/4.5
--ISO: 1400
--FocalLength: 300/10
--FlashUsed: Unavailable
--Date Taken: 2014:07:30 06:59:22
+-   Maker: NIKON CORPORATION
+-   Camera Used: NIKON D5200
+-   Exposure Time: 10/300
+-   Aperture: f/4.5
+-   ISO: 1400
+-   FocalLength: 300/10
+-   FlashUsed: Unavailable
+-   Date Taken: 2014:07:30 06:59:22
 
 If the image has been re-sized and the information is no longer available then you should receive the following when echoing the same:
 
--Maker: Info. Unavailable
--Camera Used: Info. Unavailable
--Exposure Time: Info. Unavailable
--Aperture: Info. Unavailable
--ISO: Info. Unavailable
--FocalLength: Info. Unavailable
--FlashUsed: Info. Unavailable
--Date Taken: Info. Unavailable
+-   Maker: Info. Unavailable
+-   Camera Used: Info. Unavailable
+-   Exposure Time: Info. Unavailable
+-   Aperture: Info. Unavailable
+-   ISO: Info. Unavailable
+-   FocalLength: Info. Unavailable
+-   FlashUsed: Info. Unavailable
+-   Date Taken: Info. Unavailable
 
 Some digital cameras do not capture all the information, Not captured information will display "Info. Unavailable".
 
