@@ -1,13 +1,12 @@
-# imageInformation
-
-
-The ImageInformation PHP class
+#The ImageInformation PHP class
 =============================
 
 *By Prakash Bhandari
 (http://www.prakashbhandari.com.np/)*
 
 *Licensed under the MIT license: http://opensource.org/licenses/MIT*
+
+*Demo : http://demo.prakashbhandari.com.np/imageInformation/example*
 
 Overview
 --------
