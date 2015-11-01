@@ -1,5 +1,5 @@
 #The ImageInformation PHP class
-=============================
+--------
 
 *By Prakash Bhandari
 (http://www.prakashbhandari.com.np/)*
