@@ -4,9 +4,9 @@ use imageInfo\ImageInformation;
 
 
 $img = new ImageInformation();
-$imageInfo = $img->getInformation("../assets/img/test.jpg");
-if ($camera) {
-    echo '<img src="../assets/img/test.jpg" alt="" height="250" /> <br />';
+$imageInfo = $img->getInformation("../assets/img/test.JPG");
+if ($imageInfo) {
+    echo '<img src="../assets/img/test.JPG" alt="" height="250" /> <br />';
     echo "Camera Used: " . $imageInfo['model'] . "<br />";
     echo "Maker: " . $imageInfo['maker'] . "<br />";
     echo "Exposure Time: " . $imageInfo['exposure'] . "<br />";
