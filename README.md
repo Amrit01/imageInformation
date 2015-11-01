@@ -59,3 +59,5 @@ If the image has been re-sized and the information is no longer available then y
 
 Some digital cameras do not capture all the information, Not captured information will display "Info. Unavailable".
 
+*Note:- The image should be a original and should not be edited or re-sized. If we edit or resize the image, all the image information will be lost. If you want the resize the image, first of all you need to save all the information to the database  *
+
