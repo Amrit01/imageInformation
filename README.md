@@ -22,7 +22,7 @@ the original file, simply call:
 ```php
 $img = new ImageInformation();
 $imageInfo = $img->getInformation("../assets/img/test.jpg");
-if ($camera) {
+if ($imageInfo) {
     echo '<img src="../assets/img/test.jpg" alt="" height="250" /> <br />';
     echo "Maker: " . $imageInfo['maker'] . "<br />";
     echo "Camera Used: " . $imageInfo['model'] . "<br />";
